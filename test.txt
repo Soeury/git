@@ -1,1 +1,10 @@
-this is in test.txt
+git init 
+touch file 
+git add 
+git commit -m ""
+git remote add origin addr
+git fetch origin main
+git branch -m main 
+git merge main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
+git push -u origin main:main
