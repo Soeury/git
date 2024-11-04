@@ -58,28 +58,28 @@ this is in read.md file <br/>
 ##### 五级标题
 ###### 六级标题
 ```
-
-
+<br/>
+<br/>
 2. **字体**
     * 星号和下划线都可以，单是斜体，双是粗体，三是斜粗体
     * 实现如下：
 
 ```markdown
-*这是斜体*        <br/>
-_这是斜体_        <br/>
-**这是粗体**      <br/>
-__这是粗体__      <br/>
-***这是斜粗体***  <br/>
-___这是斜粗体___  <br/>
+*这是斜体*        
+_这是斜体_        
+**这是粗体**      
+__这是粗体__      
+***这是斜粗体***  
+___这是斜粗体___  
 ```
-
-
+<br/>
+<br/>
 3. 换行
     * 一句话后面敲两个空格
     * 两句话之间加一个空行
     * 一行文字中间加<br/>表示换行
-
-
+<br/>
+<br/>
 4. 引用
     * 通过符号 **>** 来实现， **>** 后面的空格可有可无
     * 实现如下：
@@ -89,19 +89,20 @@ ___这是斜粗体___  <br/>
 >> 这是引用的引用
 >>> 这是引用的引用的引用
 ```
-
-
+<br/>
+<br/>
 5. 链接
-    * 实现方式:  [链接名称](https://www.baidu.com)
+    * 实现效果:  [链接名称](https://www.baidu.com)
     * 实现如下：
 
 ```markdown
 [百度](https://www.baidu.com)
 ```
-
-
+<br/>
+<br/>
 6. 图片
-    * 实现方式:  ![rabbit](https://th.bing.com/th/id/OIP.LYCxLaGlvbCayPsLrkNh3gHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+    * 实现效果: 
+    ![rabbit](https://th.bing.com/th/id/OIP.LYCxLaGlvbCayPsLrkNh3gHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
     * 实现如下：
 
 ```markdown
