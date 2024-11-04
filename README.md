@@ -4,11 +4,10 @@
 this is in read.md file <br/>
 **learning start** <br/>
 
-~~英文能力有限之后就暂时使用中文来写吧~~
-
-~~先把git 弄明白再写markdown~~
-
-~~竟然有人这个时候还不熟git和markdown是谁就不说了~~
+---
+~~英文能力有限之后就暂时使用中文来写吧~~ <br/>
+~~先把git 弄明白再写markdown~~ <br/>
+~~竟然有人这个时候还不熟git和markdown是谁就不说了~~ <br/>
 
 ## Start Basic
 
