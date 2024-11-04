@@ -48,7 +48,7 @@ this is in read.md file <br/>
 
 1. **标题**
     * 用 **#** 表示，可以表示1-6级标题，随 **#** 个数递增，一级标题最大，六级最小
-    * 效果如下：
+    * 实现如下：
 
 ```markdown
 # 一级标题
@@ -62,7 +62,7 @@ this is in read.md file <br/>
 
 2. **字体**
     * 星号和下划线都可以，单是斜体，双是粗体，三是斜粗体
-    * 效果如下：
+    * 实现如下：
 
 ```markdown
 *这是斜体*        <br/>
@@ -82,7 +82,7 @@ ___这是斜粗体___  <br/>
 
 4. 引用
     * 通过符号 **>** 来实现， **>** 后面的空格可有可无
-    * 效果如下：
+    * 实现如下：
 
 ```markdown
 > 这是一个引用
@@ -92,8 +92,8 @@ ___这是斜粗体___  <br/>
 
 
 5. 链接
-    * 实现方式:  [链接名称](链接地址)  
-    * 效果如下：
+    * 实现方式:  [链接名称](https://www.baidu.com)
+    * 实现如下：
 
 ```markdown
 [百度](https://www.baidu.com)
@@ -101,9 +101,9 @@ ___这是斜粗体___  <br/>
 
 
 6. 图片
-    * 实现方式:  ![图片描述](图片地址)
-    * 效果如下：
+    * 实现方式:  ![rabbit](https://th.bing.com/th/id/OIP.LYCxLaGlvbCayPsLrkNh3gHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+    * 实现如下：
 
 ```markdown
-![兔斯基](https://www.bing.com/images/search?view=detailV2&ccid=LYCxLaGl&id=EF628405A669E5DF89F44CC0F75A59509C65BB4F&thid=OIP.LYCxLaGlvbCayPsLrkNh3gHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d80b12da1a5bdb09ac8fb0bae4361de%3frik%3dT7tlnFBZWvfATA%26riu%3dhttp%253a%252f%252fb.zol-img.com.cn%252fdesk%252fbizhi%252fimage%252f1%252f960x600%252f1348730411542.jpg%26ehk%3dRE8fis3mdsbNlYL%252fGJfjlhfNZPCqoWVVIP1laYV02Gw%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=600&expw=960&q=%e5%85%94%e6%96%af%e5%9f%ba&simid=607996125399494177&FORM=IRPRST&ck=1B94F09A725611A0D224A1B608C32E75&selectedIndex=2&itb=0)
+![兔斯基](图片地址)
 ```
