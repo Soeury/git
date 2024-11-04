@@ -1,8 +1,9 @@
 # Git Learn
 
 ---
-this is in read.md file 
-**learning start**
+this is in read.md file <br/>
+**learning start** <br/>
+
 ~~英文能力有限之后就暂时使用中文来写吧~~
 
 ~~先把git 弄明白再写markdown~~
