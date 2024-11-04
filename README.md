@@ -25,3 +25,8 @@ this is in read.md file <br/>
     * `git branch -v` 查看分支
     * `git checkout name` 切换到指定分支
     * `git merge name` 把指定的name分支合并到当前的分支上
+
+
+
+* 感悟：大概了解了,之前个人开发都不怎么用 git，上传文件都是直接 upload ... 
+* ~~我是笨笨~~
