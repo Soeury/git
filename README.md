@@ -1,6 +1,5 @@
 # Git Learn
 
----
 this is in read.md file <br/>
 **learning start** <br/>
 
@@ -11,7 +10,6 @@ this is in read.md file <br/>
 
 ## Start Basic
 
----
 * 建立远程仓库 复制ssh地址,后面要用,不需要添加 read.md 文件
     * 本地创建和仓库同名的文件夹
     * `git init` 初始化本地仓库，这时候会多出俩一个 .git 文件，不要动它
