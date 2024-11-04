@@ -108,13 +108,13 @@ ___这是斜粗体___
 <br/>
 
 6. **图片**
-    * ![rabbit](https://th.bing.com/th/id/OIP.LYCxLaGlvbCayPsLrkNh3gHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
     * 实现如下：
+
 ```markdown
 ![兔斯基](图片地址)
 ```
 * 效果如下:
-![rabbit](https://th.bing.com/th/id/OIP.LYCxLaGlvbCayPsLrkNh3gHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+* ![rabbit](https://th.bing.com/th/id/OIP.LYCxLaGlvbCayPsLrkNh3gHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 <br/>
 <br/>
 
@@ -206,10 +206,23 @@ ___这是斜粗体___
 
 ```markdown
 这是一段文本[^1]，介绍的是小熊猫[^2]
-[^1]: 文本是用来描述某个事物或者某种规律现象一段文字的组合
+[^1]: 文本是用来描述某个事物或者某种规律现象一段文字的组合，据研究一个正常的句子打乱后人类也能快速看懂
 [^2]: 小熊猫是国家二级保护动物，不信你去查
 ```
 
 [^1]:脚注是什么就不多说了
-   
+<br/>
+<br/>
+
+14. **书写公式**
+15. **绘制流程图**
+
+---
+
+# Summary
+没错是看着教程写的。写完差不多记得了       <br/>
+之后所有的 README.md 文件都会按照规范写   <br/>
+祝好运  <br/>
+~~狗头保命千万别被发现了~~
+
 
