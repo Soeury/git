@@ -4,7 +4,9 @@
 this is in read.md file 
 **learning start**
 ~~英文能力有限之后就暂时使用中文来写吧~~
+
 ~~先把git 弄明白再写markdown~~
+
 ~~竟然有人这个时候还不熟git和markdown是谁就不说了~~
 
 ## Start Basic
